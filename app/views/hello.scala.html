@@ -1,0 +1,152 @@
+@(name: String)
+@main("Hello") {
+  <section id="content">
+    <div class="wrapper doc">
+      <style>
+        .column {
+          float: left;
+          padding: 10px;
+        }
+
+        .left, .right {
+          width: 20%;
+        }
+
+        .middle {
+          width: 50%;
+        }
+
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+
+        .tab {
+          overflow: hidden;
+          border: 1px solid #ccc;
+          background-color: #f1f1f1;
+        }
+
+        /* Style the buttons inside the tab */
+        .tab button {
+          background-color: inherit;
+          float: left;
+          border: none;
+          outline: none;
+          cursor: pointer;
+          padding: 14px 16px;
+          transition: 0.3s;
+          font-size: 17px;
+        }
+
+        /* Change background color of buttons on hover */
+        .tab button:hover {
+          background-color: #ddd;
+        }
+
+        /* Create an active/current tablink class */
+        .tab button.active {
+          background-color: #ccc;
+        }
+
+        /* Style the tab content */
+        .tabcontent {
+          display: none;
+          padding: 6px 12px;
+          border: 1px solid #ccc;
+          border-top: none;
+        }
+      </style>
+
+      <div class="row">
+        <div class="column left" style="background-color:#fff;">
+          <script>
+            function updateTab(evt, cityName) {
+              var i, tabcontent, tablinks;
+              tabcontent = document.getElementsByClassName("tabcontent");
+              for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+              }
+              tablinks = document.getElementsByClassName("tablinks");
+              for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+              }
+              document.getElementById(cityName).style.display = "block";
+              evt.currentTarget.className += " active";
+            }
+            </script>
+          <div class="tab">
+            <button class="tablinks" onclick="updateTab(event, 'User Search')">User Search</button>
+            <button class="tablinks" onclick="updateTab(event, 'Item Search')">Item Search</button>
+          </div>
+          <div id="User Search" class="tabcontent">
+            <p>User Search is the capital city of England.</p>
+          </div>
+
+          <div id="Item Search" class="tabcontent">
+            <p>Item Search is the capital of France.</p>
+          </div>
+
+          <br> Item
+          <select>
+            <option value="brand">brand</option>
+          </select>
+          <select>
+            <option value="cat">cat</option>
+          </select>
+          <select>
+            <option value="subcat">subcat</option>
+          </select> <br>
+          Department
+          <select>
+            <option value="women">women</option>
+          </select> <br>
+          Model
+          <select>
+            <option value="version">version</option>
+          </select> <br>
+          <button type="button">Generate Recommendations</button> <br>
+          </div>
+          <div class="column middle" style="background-color:#fff;">
+            <center>
+              <button type="button">Rate Recommendations</button> <br> <br>
+              <table style="width:30%">
+                <tr>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                </tr>
+                <tr>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                </tr>
+                <tr>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                </tr>
+                <tr>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                </tr>
+                <tr>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                  <td><img src="https://dsw.scene7.com/is/image/DSWShoes/404995_001_ss_01?$pdp-image$" alt="test" width="100"></td>
+                </tr>
+              </table>
+            </center>
+          </div>
+          <div class="column right" style="background-color:#fff;">
+            <br> Item to List Mapping
+            <select>
+              <option value="top10mostrecent">top 10 most recently shared</option>
+              <option value="saab">Saab</option>
+              <option value="mercedes">Mercedes</option>
+              <option value="audi">Audi</option>
+            </select> <br>
+            <br> Filter Listings By <br>
+            <input type="checkbox" name="offer" value="binary"> with Offer <br>
+          </div>
+        </div>
+
+  </section>
+}
