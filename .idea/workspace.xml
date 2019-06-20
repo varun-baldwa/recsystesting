@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e6b72b-9b7d-44bb-829e-5803af726373" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/views/hello.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/hello.scala.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/tutorial.scala.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/hello.scala.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#1;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#1;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#1;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>department</find>
+      <find>jewelry</find>
+      <find>shoulder bags</find>
+      <find>bootcut</find>
+      <find>column</find>
+      <find>colum</find>
+      <find>version</find>
+      <find>user search</find>
+      <find>item to list</find>
+      <find>price</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/populate.txt" />
+        <option value="$PROJECT_DIR$/app/controllers/WidgetController.scala" />
+        <option value="$PROJECT_DIR$/app/controllers/WidgetForm.scala" />
+        <option value="$PROJECT_DIR$/app/views/listWidgets.scala.html" />
+        <option value="$PROJECT_DIR$/app/controllers/fileRead.scala" />
+        <option value="$PROJECT_DIR$/app/views/hello.scala.html" />
+        <option value="$PROJECT_DIR$/app/views/tutorial.scala.html" />
+        <option value="$PROJECT_DIR$/app/models/Widget.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/sbt.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/play-scala-seed.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/play-scala-seed-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_2_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_core_1_2_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_codeborne_phantomjsdriver_1_4_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_failureaccess_1_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_27_1_jre_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_2_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_4_2_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_j2objc_j2objc_annotations_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okhttp3_okhttp_3_11_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okio_okio_1_14_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_http_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_build_link_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_cachecontrol_2_12_1_1_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_filters_helpers_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ahc_ws_2_12_2_7_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ahc_ws_standalone_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_akka_http_server_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_exceptions_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_functional_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_guice_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_json_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_logback_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_netty_server_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_server_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_streams_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_test_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_2_12_2_7_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_json_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_xml_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_shaded_asynchttpclient_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_shaded_oauth_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_twirl_api_2_12_1_4_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_3_7_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__commons_net_commons_net_3_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_jsonwebtoken_jjwt_0_9_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_buffer_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_http_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_common_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_handler_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_resolver_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_native_epoll_4_1_34_Final_linux_x86_64_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_native_unix_common_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_activation_javax_activation_api_1_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_cache_cache_api_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_transaction_jta_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_3_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_10_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_bytebuddy_byte_buddy_1_8_15_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_2_33_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_core_js_2_33_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_cssparser_1_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_neko_htmlunit_2_33_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_exec_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_text_1_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_10_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_atteo_classindex_classindex_3_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_checkerframework_checker_qual_2_5_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_client_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_http_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_io_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_util_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_xml_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_4_12_v20180830_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_fluentlenium_fluentlenium_core_3_7_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_joda_joda_convert_1_9_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_9_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatestplus_play_scalatestplus_play_2_12_4_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_htmlunit_driver_2_33_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_api_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_edge_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_ie_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_java_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_opera_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_remote_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_safari_driver_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_support_3_141_59_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_26_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_26_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_26_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xalan_serializer_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xalan_xalan_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_12_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_4_01_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1722" />
+    <option name="y" value="23" />
+    <option name="width" value="914" />
+    <option name="height" value="936" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="play-scala-seed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recsystesting" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="play-scala-seed" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/rwilson/Documents/recsystesting/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="play-scala-seed-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6243220824000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3079063511" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="1610457704" />
+        <entry key="$PROJECT_DIR$/project/scaffold.sbt" value="162976339" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../goshposh/spark-etl" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/play_hello_world" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e6b72b-9b7d-44bb-829e-5803af726373" name="Default Changelist" comment="" />
+      <created>1560805653740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560805653740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1722" y="23" width="914" height="936" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28440368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30094787" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32938388" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32938388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="sbt" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28440368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.30094787" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32938388" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32938388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="sbt" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+    <entry file="file://$PROJECT_DIR$/app/models/Widget.sc" />
+    <entry file="file://$PROJECT_DIR$/conf/routes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/WidgetController.scala" />
+    <entry file="file://$PROJECT_DIR$/app/views/populate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/fileRead.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/listWidgets.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/WidgetForm.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#43#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Widget.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/hello.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#1;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#1;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#1;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#2;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#0;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#1;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#td#1;n#tr#4;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/tutorial.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
